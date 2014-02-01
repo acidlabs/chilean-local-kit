@@ -36,6 +36,12 @@ Maintained by [Platanus][platanus] at [https://github.com/platanus/angular-rut](
 
   [platanus]: https://github.com/platanus
 
+### RutSharp
+
+Implementation of the chilean RUT validation, generation and formatting for Mono / .Net written in C#.
+
+Maintained by [juancri](https://github.com/juancri) at [https://github.com/CxSoftware/rutsharp](https://github.com/CxSoftware/rutsharp)
+
 Contribute!
 -----------
 
