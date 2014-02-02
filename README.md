@@ -30,7 +30,7 @@ Maintained by [gonzalo-bulnes][gonzalo-bulnes] at [https://github.com/gonzalo-bu
 
 [![Build Status](https://secure.travis-ci.org/platanus/angular-rut.png)](https://travis-ci.org/platanus/angular-rut)
 
-A couple of angular components to handle chilean rut validation and formatting.
+A couple of AngularJS components to handle chilean RUT validation and formatting.
 
 Maintained by [Platanus][platanus] at [https://github.com/platanus/angular-rut](https://github.com/platanus/angular-rut)
 
