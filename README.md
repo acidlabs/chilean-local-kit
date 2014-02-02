@@ -6,7 +6,7 @@ A set of tools which makes easy for developers to deal with the chilean specific
 Projects
 --------
 
-### RUN
+### RUN (a.k.a RUT)
 
 Generator, validator and formatter, for Chilean RUN (Rol Único Nacional), written in Ruby.
 
@@ -30,11 +30,17 @@ Maintained by [gonzalo-bulnes][gonzalo-bulnes] at [https://github.com/gonzalo-bu
 
 [![Build Status](https://secure.travis-ci.org/platanus/angular-rut.png)](https://travis-ci.org/platanus/angular-rut)
 
-A couple of angular components to handle chilean rut validation and formatting.
+A couple of AngularJS components to handle chilean RUT validation and formatting.
 
 Maintained by [Platanus][platanus] at [https://github.com/platanus/angular-rut](https://github.com/platanus/angular-rut)
 
   [platanus]: https://github.com/platanus
+
+### RutSharp
+
+Implementation of the chilean RUT validation, generation and formatting for Mono / .Net written in C#.
+
+Maintained by [juancri](https://github.com/juancri) at [https://github.com/CxSoftware/rutsharp](https://github.com/CxSoftware/rutsharp)
 
 Contribute!
 -----------
