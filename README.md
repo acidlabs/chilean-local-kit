@@ -6,7 +6,7 @@ A set of tools which makes easy for developers to deal with the chilean specific
 Projects
 --------
 
-### RUN
+### RUN (a.k.a RUT)
 
 Generator, validator and formatter, for Chilean RUN (Rol Único Nacional), written in Ruby.
 
